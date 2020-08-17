@@ -1,0 +1,19 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soufianos01/node-farm.git"
+  },
+  "author": "Souphiane Bensalim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soufianos01/node-farm/issues"
+  },
+  "homepage": "https://github.com/soufianos01/node-farm#readme"
+}
